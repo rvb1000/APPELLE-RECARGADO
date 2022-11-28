@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+	font-family: 'Readex Pro', sans-serif;
+	background: #E5E5E5;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.ver-mapa-centros {
+    background: none;
+    color: black;
+    border: 1px solid black;
+}
